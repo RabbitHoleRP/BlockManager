@@ -1,0 +1,4 @@
+name: BlockManager
+version: '${project.version}'
+main: br.com.rabbithole.blockmanager.BlockManager
+api-version: '1.20'
